@@ -1,0 +1,52 @@
+header {text-align: center;}
+html {font-family: Arial, Helvetica, sans-serif;}
+main {margin: auto; max-width: 1000px;}
+#logo {width: 12em;}
+.motto { color: rgb(0, 94, 72);
+    background-color: rgba(255, 249, 209, 0.788);
+    border-top: solid rgb(255, 196, 0);
+    padding: 0.5em;}
+#ex {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    text-align: center;}
+#ex2 {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 63%;
+    text-align: justify;}
+#focaccia {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;}
+#ex3 {display: block;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    text-align: center;
+    color:gray}
+#text {padding-left: 3%;}
+#corr {color: chocolate;
+       border-left: 0.1em solid rgb(255, 205, 54);
+        padding: 1%;}
+#link {color: rgb(53, 192, 185);}
+h2 {border-bottom: 0.05em solid rgb(61, 198, 191);
+    padding-bottom: 0.5em;}
+section {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 63%;
+    text-align: justify;}
+aside {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 63%;
+    text-align: justify;}
+footer {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:justify;
+    width: 63%; 
+    max-width: 600px;}
